@@ -50,7 +50,9 @@ class InitialCondition:
     POP_UNEXPOSED = 49
     POP_INFECTED = 1
 
-
+"""
+Constants for HostConfig
+"""
 class HostConfig:
     SIZE = 11
     VACCINATION_DRIP = 3
